@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Terentyev
     given-names: Vladimir
+    orcid: "https://orcid.org/0009-0006-6920-6770"
 version: 1.0.0
 date-released: "2026-11-19"
 doi: 10.5281/zenodo.24369273
@@ -23,6 +24,7 @@ preferred-citation:
   authors:
     - family-names: Terentyev
       given-names: Vladimir
+      orcid: "https://orcid.org/0009-0006-6920-6770"
   year: 2026
   publisher:
     name: "VOVA.TODAY"
