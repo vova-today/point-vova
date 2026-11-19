@@ -1,0 +1,8 @@
+{
+ "segments_near_the_circle": 17882,
+ "segments_searched_along_their_length": 9,
+ "of_them_nearest_at_an_inner_point": 0,
+ "nearest_segment_minus_radius_mm": -6.984919309616089e-07,
+ "circle_is_empty_of_segments": true,
+ "longest_segment_near_the_circle_m": 1777.371715771564
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this, cite the article."
+title: "Point Vova: the Atlantic pole of inaccessibility"
+type: software
+authors:
+  - family-names: Terentyev
+    given-names: Vladimir
+license: CC0-1.0
+url: "https://vova.today/en/works/point-vova/"
+repository-code: "https://github.com/vova-today/point-vova"
+preferred-citation:
+  type: generic
+  title: "Point Vova"
+  authors:
+    - family-names: Terentyev
+      given-names: Vladimir
+  year: 2026
+  publisher:
+    name: "VOVA.TODAY"
+  url: "https://vova.today/en/works/point-vova/"

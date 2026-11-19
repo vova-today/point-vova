@@ -1,0 +1,79 @@
+{
+ "lat": 24.18654924420576,
+ "lon": -43.37090171256057,
+ "km": 2033.9467988595827,
+ "ellipsoid": "WGS84",
+ "start": [
+  24.125,
+  -43.375
+ ],
+ "iterations": 3,
+ "shores": [
+  {
+   "lat": 16.3489497,
+   "lon": -61.007572,
+   "km": 2033.9467988595827,
+   "azimuth": 248.05877471497385,
+   "source": "OpenStreetMap",
+   "osm_way": 42024315,
+   "osm_node": 9570455415,
+   "point_moves_m_per_m": 0.5632688357324566,
+   "radius_grows_m_per_m": 0.43716869209315146
+  },
+  {
+   "lat": 39.3766506,
+   "lon": -31.2505503,
+   "km": 2033.9467988595834,
+   "azimuth": 31.22463545980347,
+   "source": "OpenStreetMap",
+   "osm_way": 593504876,
+   "osm_node": 12578889006,
+   "point_moves_m_per_m": 0.8357310633094526,
+   "radius_grows_m_per_m": 0.2950758717861482
+  },
+  {
+   "lat": 17.0603992,
+   "lon": -25.3587267,
+   "km": 2033.9467988595843,
+   "azimuth": 109.40981650348887,
+   "source": "OpenStreetMap",
+   "osm_way": 302291258,
+   "osm_node": 80002310,
+   "point_moves_m_per_m": 0.8475104743149836,
+   "radius_grows_m_per_m": 0.26775543612070024
+  }
+ ],
+ "spread_between_shores_mm": 1.6298145055770874e-06,
+ "azimuth_gaps_deg": [
+  78.1851810436854,
+  138.64895821148497,
+  143.16586074482962
+ ],
+ "is_local_maximum": true,
+ "nearest_vertex_km": 2033.9467988595827,
+ "circle_is_empty": true,
+ "vertices_measured_exactly_in_check": 15512,
+ "next_land": {
+  "lat": 17.6383369,
+  "lon": -61.7406634,
+  "km": 2041.5413332985315,
+  "azimuth": 252.7073580087115,
+  "source": "OpenStreetMap",
+  "osm_way": 691307383,
+  "osm_node": 281199789
+ },
+ "nearest_gshhg_vertex": {
+  "lat": 39.374583,
+  "lon": -31.179944000000035,
+  "km": 2037.4918608249163,
+  "azimuth": 31.366345460439675,
+  "source": "GSHHG"
+ },
+ "coastline": {
+  "gshhg_world": 10047367,
+  "osm": 13866,
+  "osm_ways": 51,
+  "osm_islets_dropped": 137,
+  "within_radius": 56176
+ }
+}
