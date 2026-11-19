@@ -85,7 +85,7 @@ One run computes these variants. The table is `results/summary.md`.
 | Finding the centre | hill climbing with simulated annealing; separate runs within 10 m of each other | Newton's method on the three distances; they agree to under a micrometre |
 | Result | 24.1851° N, 43.3704° W, 2,033.8849 km | 24.185247° N, 43.370870° W, 2,033.8959 km |
 
-The two points are 50.5 m apart. Barnes prints four decimals, which is about 10 m. The 50 m have two causes, and this repository measures both.
+The two points are 50.5 m apart. Barnes prints four decimals, which is about 10 m. The 50 m have two causes, and this repository measures both. The two shifts point in different directions, so 41 m and 31 m make 50 m together, not 72.
 
 **The map changed: 41 m.** On the OpenStreetMap coastline of 26 April 2017, the date of Barnes's data, this solver gives 24.185373° N, 43.370487° W, 2,033.8638 km. That is 41.4 m from the result. The rock off Flores and the contact on Santo Antão are the same nodes in 2017 and in 2026. The coast of La Désirade was redrawn in between, and the contact there is 571 m from where it was.
 
