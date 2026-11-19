@@ -7,6 +7,7 @@ authors:
     given-names: Vladimir
 version: 1.0.0
 date-released: "2026-11-19"
+doi: 10.5281/zenodo.24369273
 abstract: "Code, coastline data and results for the Atlantic pole of inaccessibility: 24.1852 N, 43.3709 W, 2,033.9 km from the nearest land, computed on the WGS84 ellipsoid from OpenStreetMap and GSHHG coastlines, with a comparison against Barnes (2019)."
 keywords:
   - pole of inaccessibility

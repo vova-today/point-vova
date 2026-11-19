@@ -144,7 +144,11 @@ The run takes about four minutes and rewrites `results/`. It stops if a check fa
 
 ## Cite
 
-Terentyev, V. (2026). Point Vova. VOVA.TODAY. https://vova.today/en/works/point-vova/
+The article: Terentyev, V. (2026). Point Vova. VOVA.TODAY. https://vova.today/en/works/point-vova/
+
+The code and data: Terentyev, V. (2026). Point Vova: the Atlantic pole of inaccessibility. Zenodo. https://doi.org/10.5281/zenodo.24369273
+
+That DOI stands for every version. Version 1.0.0 alone is [10.5281/zenodo.24369274](https://doi.org/10.5281/zenodo.24369274).
 
 ## Licence
 
